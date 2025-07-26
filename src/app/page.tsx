@@ -51,7 +51,7 @@ export default function Home() {
             🐍 Snake Species Identifier
           </h1>
           <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-            Upload an image of a snake to identify its species and learn whether it's venomous or not.
+            Upload an image of a snake to identify its species and learn whether it&apos;s venomous or not.
             Our AI-powered system will analyze the image and provide detailed information.
           </p>
         </div>
